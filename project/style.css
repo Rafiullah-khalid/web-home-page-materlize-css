@@ -1,0 +1,16 @@
+body{
+    background: url("/img/pexels-designecologist-1779487.jpg") no-repeat;
+    background-size: cover;
+}
+.card{
+    border: solid rgb(126, 126, 155);
+    height: 350px;
+    width: 300px;
+    background-size: 20px;
+    padding: 10px;
+    margin: top 300px;;
+
+}
+.card:hover{
+    cursor: pointer;
+}
